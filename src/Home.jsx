@@ -67,7 +67,7 @@ export default function Home(){
     }
 
     return(
-        <div className='min-h-[2vh] w-full'>
+        <div className='w-full'>
             <div id='search-container' className='w-6/12 mx-auto'>
                 <input type='text' 
                 placeholder='Search...'

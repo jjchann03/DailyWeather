@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DailyWeather/static/css/main.bbaac822.css",
+    "main.js": "/DailyWeather/static/js/main.ffc519cc.js",
+    "static/js/453.97127cc3.chunk.js": "/DailyWeather/static/js/453.97127cc3.chunk.js",
+    "index.html": "/DailyWeather/index.html",
+    "main.bbaac822.css.map": "/DailyWeather/static/css/main.bbaac822.css.map",
+    "main.ffc519cc.js.map": "/DailyWeather/static/js/main.ffc519cc.js.map",
+    "453.97127cc3.chunk.js.map": "/DailyWeather/static/js/453.97127cc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbaac822.css",
+    "static/js/main.ffc519cc.js"
+  ]
+}

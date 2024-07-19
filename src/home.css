@@ -1,0 +1,27 @@
+#search{
+    background-color: rgba(75, 85, 99, 0.744);
+}
+#search:focus{
+    outline: none;
+}
+
+/* #weather-display-container{
+    background-color: rgba(186, 229, 253, 0.769);
+} */
+
+#uv-bar{
+    background: linear-gradient(90deg,green,green,yellow,orange,red);
+}
+
+#loading{
+    animation: loadingAnimation 1s infinite;
+}
+
+@keyframes loadingAnimation {
+    from {
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
